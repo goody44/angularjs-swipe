@@ -14,7 +14,7 @@ It is AngularJS Directive based on [ Brad's Swipe](https://github.com/bradbirdsa
 
 ``` html
 <div swiper >
-  <div>
+  <div class="swipe-wrap">
     <div></div>
     <div></div>
     <div></div>
